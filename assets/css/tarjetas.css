@@ -80,19 +80,19 @@ body {
   transition: transform calc(var(--d) * 2) var(--e);
 }
 .card:nth-child(1):before {
-  background-image:url("/assets/img/card1_opt.jpg");
+  background-image:url("./assets/img/card1_opt.jpg");
 }
 .card:nth-child(2):before {
-  background-image:url("/assets/img/card2_opt.jpg");
+  background-image:url("./assets/img/card2_opt.jpg");
 }
 .card:nth-child(3):before {
-  background-image:url("/assets/img/card3_opt.jpg");
+  background-image:url("./assets/img/card3_opt.jpg");
 }
 .card:nth-child(4):before {
-  background-image:url("/assets/img/card4_opt.jpg");
+  background-image:url("./assets/img/card4_opt.jpg");
 }
 .card:nth-child(5):before {
-  background-image:url("/assets/img/card5_opt.jpg");
+  background-image:url("./assets/img/card5_opt.jpg");
 }
 .content {
   position: relative;
