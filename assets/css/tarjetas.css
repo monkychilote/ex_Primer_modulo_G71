@@ -84,7 +84,7 @@ body {
   background-image:url("https://img.freepik.com/foto-gratis/fotografia-lateral-editor-codigo-que-utiliza-react-js_181624-61842.jpg");
 }
 .card:nth-child(2):before {
-  background-image:url("/assets/img/card2_opt.jpg");
+  background-image:url("https://img.freepik.com/foto-gratis/fotografia-lateral-editor-codigo-que-utiliza-react-js_181624-61842.jpg");
 }
 .card:nth-child(3):before {
   background-image:url("/assets/img/card3_opt.jpg");
