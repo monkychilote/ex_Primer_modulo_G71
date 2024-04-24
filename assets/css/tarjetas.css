@@ -79,6 +79,7 @@ body {
   transform: translateY(-50%);
   transition: transform calc(var(--d) * 2) var(--e);
 }
+
 .card:nth-child(1):before {
   background-image:url("/assets/img/card1_opt.jpg");
 }
