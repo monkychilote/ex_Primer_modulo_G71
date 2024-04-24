@@ -30,3 +30,27 @@ body {
 .col.edu {
   margin-top: 2em;
 }
+.menu {
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  font-style: normal;
+}
+.footer{
+  width: 100%;
+}
+header{
+  width: 100%;
+  margin: 0;
+}
+.align-right-center {
+  display: flex;
+  justify-content: end; 
+  align-items: center;
+  height: 100%; 
+}
+.right-image {
+  width: auto; 
+  max-width: 100%; 
+  height: auto; 
+}
